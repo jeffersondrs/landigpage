@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Paradigman Shift',
+  title: 'Agency Tech',
   description: 'Site Portifolio',
 }
 
